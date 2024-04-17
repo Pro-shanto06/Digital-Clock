@@ -4,28 +4,22 @@
   box-sizing: border-box;
 }
 
-
 body {
   height: 100vh;
-  background-color: #3b4156;
+  background-color: #0e1220; 
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 p {
-  color: #fb6087;
+  color: #ff7a5a; 
   font-size: 9vw;
 }
 
 .clockHolder {
-
-  background-color: #1b252a;
+  background-color: #212d3b; 
   padding: 5% 7%;
   border-radius: 15px;
-  border: 4px solid #f5ee62;
+  border: 4px solid #fcd89f; 
 }
-
-
-
-
