@@ -26,7 +26,3 @@ This project is a simple digital clock implemented using HTML, CSS, and JavaScri
 
    ```bash
    git clone https://github.com/Pro-shanto06/Digital-Clock.git
-
-
-
-
