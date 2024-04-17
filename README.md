@@ -22,7 +22,7 @@ This project is a simple digital clock implemented using HTML, CSS, and JavaScri
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/digital-clock.git](https://github.com/Pro-shanto06/Digital-Clock.git
+   git clone https://github.com/Pro-shanto06/Digital-Clock.git
 
 
 
